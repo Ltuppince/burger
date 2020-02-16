@@ -1,9 +1,9 @@
 $(function() {
     $(".change-devoured").on("click", function(event) {
       var id = $(this).data("id");
-      var newDevoured = $(this).data("newdevoured");
+      var newDevoured = $(this).data("newdevoured")
   
-      var newDevoured = {
+      var newDevouredState = {
         devoured: newDevoured
       };
   
@@ -27,6 +27,7 @@ $(function() {
       var newBurger = {
         burger_name: $("#burger_name").val().trim(),
         devoured: $("[name=devoured]:checked").val().trim()
+        
       };
   
       // Send the POST request.
@@ -57,4 +58,8 @@ $(function() {
       );
     });
   });
-  
+
+
+
+
+
