@@ -21,11 +21,9 @@ $(function() {
     });
   
     $(".create-form").on("submit", function(event) {
-      // Make sure to preventDefault on a submit event.
       event.preventDefault();
-  
       var newBurger = {
-        burger_name: $("#burger_name").val().trim(),
+        burger_name: $("#new-burger").val().trim(),
         devoured: $("[name=devoured]:checked").val().trim()
         
       };
@@ -58,8 +56,3 @@ $(function() {
       );
     });
   });
-
-
-
-
-

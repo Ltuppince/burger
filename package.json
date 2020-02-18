@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Ltuppince/burger.git"
   },
-  "author": "Lorenzo Tuppince",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Ltuppince/burger/issues"
@@ -20,6 +20,9 @@
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
-    "mysql": "^2.18.1"
-  }
+    "mysql": "^2.18.1",
+    "require": "^2.4.20",
+    "stack": "^0.1.0"
+  },
+  "devDependencies": {}
 }

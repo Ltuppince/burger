@@ -15,7 +15,7 @@ app.engine("handlebars", exphbs({
 }));
 app.set("view engine", "handlebars");
 
-var routes = require("./controllers/burgers_controllers.js");
+var routes = require("./controllers/burgerController.js");
 
 app.use(routes);
 
