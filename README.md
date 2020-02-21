@@ -1,4 +1,4 @@
-link to Eat-Da-Burger! https://floating-coast-88083.herokuapp.com/
+link to The Burger App! https://floating-coast-88083.herokuapp.com/
 
 link to Portfolio https://ltuppince.github.io/portfolioPages/
 
