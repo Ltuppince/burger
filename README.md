@@ -1,5 +1,6 @@
 link to Eat-Da-Burger! https://floating-coast-88083.herokuapp.com/
-link to Portfolio file:///Users/lorenzot.tuppince/git/portfolioPages/index.html
+
+link to Portfolio https://ltuppince.github.io/portfolioPages/
 
 # burger
 Burger Week 13 Homework
